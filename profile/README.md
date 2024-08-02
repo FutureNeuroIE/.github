@@ -6,9 +6,6 @@ Welcome to FutureNeuro, where our vision is to change the patient journey for pe
 
 - [About Us](#about-us)
 - [Our Mission](#our-mission)
-- [What We Do](#what-we-do)
-- [How to Get Involved](#how-to-get-involved)
-- [Contact Us](#contact-us)
 
 ## About Us
 
